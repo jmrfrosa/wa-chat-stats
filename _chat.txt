@@ -1,0 +1,5 @@
+[06/05/19, 17:58:38] Created group “Test”
+[06/05/19, 17:58:38] Test: ‎The messages you send to this group will be end-to-end encrypted.
+‎[06/05/19, 17:58:42] User 1: hey
+[06/05/19, 17:59:05] User 2: what's up 😎
+[06/05/19, 18:00:24] User 1: 😎!
